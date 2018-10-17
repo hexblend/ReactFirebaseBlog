@@ -7,7 +7,7 @@ import SignedOutLinks from './SignedOutLinks';
 
 const Navbar = () => {
     return (
-        <nav className="nav-wrapper" style={{ 'background': '#202124'}}>
+        <nav className="nav-wrapper blue darken-2" style={{ 'background': '#202124'}}>
             <div className="container">
                 <Link to='/' className="brand-logo">ReactBlog</Link>
                 <SignedInLinks />
