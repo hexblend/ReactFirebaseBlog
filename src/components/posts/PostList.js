@@ -3,13 +3,16 @@ import React from 'react';
 // Components
 import PostSummary from './PostSummary';
 
-const PostList = () => {
+const PostList = (props) => {
+    const posts = props.posts;
+
     return (
         <div className="post-list section">
-            <PostSummary />
-            <PostSummary />
-            <PostSummary />
-            <PostSummary />
+            {posts && posts.map(post => {
+                return (
+                    <PostSummary post={post} key={post.id}/>
+                );
+            })}
         </div>
     );
 }
