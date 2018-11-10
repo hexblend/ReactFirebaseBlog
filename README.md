@@ -14,10 +14,10 @@ All the backend was done using **Firebase** which is a real-time database made b
 
 ## Snapshots
 | ![](./ss/2.png)| ![](./ss/3.png)|
-| -------------- |:---------------:|
+| -------------- |:------------- :|
 ![](./ss/1.png)
 | ![](./ss/4.png)| ![](./ss/5.png)|
-| -------------- |:---------------:|
+| -------------- |:------------- :|
 
 ### System Preparation
 If you want to use this app, you need to have installed **Node.js** on your machine.
