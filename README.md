@@ -11,10 +11,15 @@ All the backend was done using **Firebase** which is a real-time database made b
 [https://reactfirebaseblog.firebaseapp.com](https://reactfirebaseblog.firebaseapp.com)
 
 ## Snapshots
-| ![](./ss/2.png)| ![](./ss/3.png)|
+| Sign Up | Log In|
 | -------------- |:--------------:|
+![](./ss/2.png) | ![](./ss/3.png)
+
+**Main App Screen**
 ![](./ss/1.png)
+**Single Post**
 ![](./ss/5.png)
+**Create Post**
 ![](./ss/4.png)
 
 ### System Preparation
